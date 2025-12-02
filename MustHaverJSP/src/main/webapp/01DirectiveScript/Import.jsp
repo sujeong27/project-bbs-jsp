@@ -16,4 +16,4 @@ String todayStr = dateFormat.format(today);
 out.println("오늘 날짜 : " + todayStr);
 %>
 </body>
-</html>
+</html>123123
