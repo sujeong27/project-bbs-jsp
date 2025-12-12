@@ -19,4 +19,4 @@ String pValue = "방랑시인";
 		<jsp:param name="param3" value="<%=pValue%>" />
 	</jsp:forward>
 </body>
-</html>
+</html> 
